@@ -1,6 +1,12 @@
 .drum-pad {
-    height: 50px;
-    width: 50px;
-    border: 1px solid black;
-    text-align: center;
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    border-radius: 5px;
+
 }
