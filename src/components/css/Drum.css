@@ -17,5 +17,10 @@
     align-items: center;
     background-color: rgb(168, 167, 167);
     font-size: 20px;
+    margin-bottom: 20px;
+}
+
+#controller-box {
     margin-left: 20px;
+    height: 100%;
 }
