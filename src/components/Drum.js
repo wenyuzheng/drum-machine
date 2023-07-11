@@ -13,6 +13,7 @@ const Drum = () => {
       <div id="drum-pad-box">
         {audios.map((e) => (
           <DrumPad
+            id={e.key}
             key={e.name}
             audio={e}
             setAudioName={setAudioName}
